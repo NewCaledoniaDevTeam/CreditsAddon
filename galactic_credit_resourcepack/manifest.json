@@ -1,30 +1,28 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "",
-    "name": "Galactic Credit",
-    "uuid": "470d0d6b-6fd5-41e0-b782-398a8a17c5da",
-    "version": [
-      1,
-      0,
-      1
-    ],
-    "min_engine_version": [
-      1,
-      14,
-      0
-    ]
-  },
-  "modules": [
-    {
-      "description": "",
-      "type": "resources",
-      "uuid": "488bf52e-f79e-4690-82fd-725243270d52",
-      "version": [
-        1,
-        0,
-        0
-      ]
-    }
-  ]
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Galactic Credit",
+        "uuid": "470d0d6b-6fd5-41e0-b782-398a8a17c5da",
+        "version": [
+            1,
+            0,
+            3
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [{
+        "description": "",
+        "type": "resources",
+        "uuid": "488bf52e-f79e-4690-82fd-725243270d52",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
 }

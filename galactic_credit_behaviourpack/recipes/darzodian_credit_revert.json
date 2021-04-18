@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "darzos:darzodian_credit_revert"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 0,
+        "ingredients": [{
+                "item": "darzos:darzodian_credit"
+            },
+            {
+                "item": "darzos:darzodian_credit"
+            }
+        ],
+        "result": {
+            "item": "galactic_credit:credit",
+            "count": 1
+        }
+    }
+}

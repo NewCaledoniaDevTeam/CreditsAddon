@@ -1,9 +1,15 @@
 {
-  "resource_pack_name": "vanilla",
-  "texture_name": "atlas.items",
-  "texture_data": {
-    "credit": {
-      "textures": "textures/items/credit2"
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "credit": {
+            "textures": "textures/items/credit"
+        },
+        "darzodian_credit": {
+            "textures": "textures/items/darzos"
+        },
+        "drachma": {
+            "textures": "textures/items/drachma"
+        }
     }
-  }
 }

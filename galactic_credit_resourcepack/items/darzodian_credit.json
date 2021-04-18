@@ -2,12 +2,12 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "galactic_credit:credit",
+            "identifier": "darzos:darzodian_credit",
             "category": "Items",
             "register_to_creative_menu": true
         },
         "components": {
-            "minecraft:icon": "credit",
+            "minecraft:icon": "darzodian_credit",
             "minecraft:render_offsets": "apple"
         }
     }

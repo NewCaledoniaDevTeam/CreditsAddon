@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "galactic_credit:credit",
+            "identifier": "darzos:darzodian_credit",
             "register_to_creative_menu": true,
             "is_experimental": false
         },

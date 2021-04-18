@@ -1,0 +1,18 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [{
+            "item": "eternalia:drachma"
+        }],
+        "result": {
+            "item": "galactic_credit:credit",
+            "count": 4
+        },
+        "description": {
+            "identifier": "eternalia:darchma_credit_revert"
+        }
+    }
+}

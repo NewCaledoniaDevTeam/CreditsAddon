@@ -2,12 +2,12 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "galactic_credit:credit",
+            "identifier": "eternalia:drachma",
             "category": "Items",
             "register_to_creative_menu": true
         },
         "components": {
-            "minecraft:icon": "credit",
+            "minecraft:icon": "drachma",
             "minecraft:render_offsets": "apple"
         }
     }
