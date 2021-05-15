@@ -1,5 +1,5 @@
 # Credits Addon
 
-New Caledonia Official Currency Addon Mod Pack
+New Caledonia Official Currency Addon Pack
 
 ![background.png](background.png)
