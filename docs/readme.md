@@ -1,5 +1,7 @@
 # Currencies
 
+New Caledonia Official Currency Addon Pack Docs
+
 ![Background](../background.png)
 
 ## Galactic Credit
