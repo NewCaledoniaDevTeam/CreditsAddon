@@ -10,9 +10,9 @@
 ## Darzodian Credit
 - Shrewsbuquerque Currency
 
-[![darzodian_credit_recipe.gif](images/darzodian_credit_recipe.gif)](images/darzodian_credit_recipe.png)
+[![darzodian_credit_recipe.gif](images/darzodian_credit_recipe.gif)](images/darzodian_credit_recipe.gif)
 
-[![darzodian_credit_revert.gif](images/darzodian_credit_revert.gif)](images/darzodian_credit_revert.png)
+[![darzodian_credit_revert.gif](images/darzodian_credit_revert.gif)](images/darzodian_credit_revert.gif)
 
 ## Drachmas 
 - Eternalia Currency
