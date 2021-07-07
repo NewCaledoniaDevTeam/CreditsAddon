@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "",
+        "description": "New Caledonia Official Currency Addon Pack",
         "name": "Galactic Credit",
         "uuid": "635a3832-c1d1-461e-9221-1157c8ffd31f",
         "version": [
-            1,
+            2,
             0,
-            3
+            0
         ],
         "min_engine_version": [
             1,
@@ -16,7 +16,7 @@
         ]
     },
     "modules": [{
-        "description": "",
+        "description": "New Caledonia Official Currency Addon Pack",
         "type": "data",
         "uuid": "8102a609-4b19-4ec8-874a-d11c905b0f54",
         "version": [
@@ -28,9 +28,9 @@
     "dependencies": [{
         "uuid": "470d0d6b-6fd5-41e0-b782-398a8a17c5da",
         "version": [
-            1,
+            2,
             0,
-            3
+            0
         ]
     }]
 }

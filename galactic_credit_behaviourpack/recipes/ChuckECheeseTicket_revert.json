@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "# #",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "SOC:ChuckECheeseTicket"
+            }
+        },
+        "result": {
+            "item": "galactic_credit:credit",
+            "count": 1
+        },
+        "description": {
+            "identifier": "SOC:ChuckECheeseTicket_revert"
+        }
+    }
+}

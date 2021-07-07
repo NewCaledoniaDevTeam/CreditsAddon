@@ -1,0 +1,18 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [{
+            "item": "SOC:ChuckECheeseTicket"
+        }],
+        "result": {
+            "item": "SOC:ChuckECheeseToken",
+            "count": 8
+        },
+        "description": {
+            "identifier": "SOC:ChuckECheeseToken_recipe"
+        }
+    }
+}

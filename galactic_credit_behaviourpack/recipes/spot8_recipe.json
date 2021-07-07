@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   ",
+            "   ",
+            " # "
+        ],
+        "key": {
+            "#": {
+                "item": "galactic_credit:credit"
+            }
+        },
+        "result": {
+            "item": "SOC:ChuckECheeseTicket",
+            "count": 8
+        },
+        "description": {
+            "identifier": "galactic_credit:spot8_recipe"
+        }
+    }
+}

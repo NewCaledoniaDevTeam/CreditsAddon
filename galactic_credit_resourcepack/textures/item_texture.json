@@ -10,6 +10,12 @@
         },
         "drachma": {
             "textures": "textures/items/drachma"
+        },
+        "ChuckECheeseTicket": {
+            "textures": "textures/items/ChuckECheeseTicket"
+        },
+        "ChuckECheeseToken": {
+            "textures": "textures/items/ChuckECheeseToken"
         }
     }
 }
